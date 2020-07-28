@@ -76,5 +76,6 @@ public class SecondFragment extends Fragment {
         );
 
         requestQueue.add(stringRequest);
+
     }
 }
